@@ -88,12 +88,12 @@ nav ul li a:hover {
 
 .card p {
     font-size: 1rem;
-    color: #666;
+    color: #f9f5f5;
 }
 
 /* Estilizando o rodapé */
 footer {
-    background-color: #333;
+    background-color: #fef6f6;
     color: #fff;
     text-align: center;
     padding: 1rem;
