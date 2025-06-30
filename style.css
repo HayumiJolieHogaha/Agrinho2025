@@ -3,6 +3,9 @@ body{
 
 }
 
+h1{
+    color:red
+}
 
 /* Reset básico para garantir um estilo consistente em diferentes navegadores */
 * {
