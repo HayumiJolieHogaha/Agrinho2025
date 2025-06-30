@@ -1,10 +1,10 @@
 body{
-    background-color: #d56d6d;
+    background-color: #fcf6f6;
 
 }
 
 h1{
-    color:red
+    color:black
 }
 
 /* Reset básico para garantir um estilo consistente em diferentes navegadores */
@@ -59,7 +59,7 @@ nav ul li a:hover {
     font-size: 1.2rem;
 }
 
-/* Cards de conteúdo */
+/* Paragráfos de conteúdo */
 .content {
     display: flex;
     justify-content: space-around;
@@ -68,11 +68,11 @@ nav ul li a:hover {
     max-width: 1000px;
 }
 
-.card {
-    background-color: white;
+.p {
+    background-color: rgb(224, 107, 107);
     padding: 20px;
     width: 30%;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(15, 0, 0, 0.1);
     border-radius: 8px;
     transition: transform 0.3s;
 }
