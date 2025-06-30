@@ -39,13 +39,13 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #ff6600;
+    color:
 }
 
 /* Seção Hero (imagem ou texto de destaque) */
 .hero {
-    background-color: #4CAF50;
-    color: white;
+    background-color: 
+    color: 
     text-align: center;
     padding: 100px 20px;
 }
@@ -59,21 +59,4 @@ nav ul li a:hover {
     font-size: 1.2rem;
 }
 
-/* Paragráfos de conteúdo */
-.content {
-    display: flex;
-    justify-content: space-around;
-    margin: 40px auto;
-    padding: 20px;
-    max-width: 1000px;
-}
-
-.p {
-    background-color: rgb(224, 107, 107);
-    padding: 20px;
-    width: 30%;
-    box-shadow: 0 4px 8px rgba(15, 0, 0, 0.1);
-    border-radius: 8px;
-    transition: transform 0.3s;
-}
 
